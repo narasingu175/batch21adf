@@ -1,0 +1,15 @@
+{
+	"name": "Batch21ADFpra",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1024ea8e-d500-469b-9651-079ea8f91fcb",
+		"tenantId": "09387f00-7a68-4535-8c91-8361bfc5c6cd"
+	}
+}
